@@ -79,7 +79,7 @@ Real-time collaborative AR-based supply chain simulation platform with AI-driven
 
 ## 🌍 Connect With Me
 
-- LinkedIn: [Your LinkedIn Link](https://www.linkedin.com/in/tareq-monowar-099aa72a3/)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/tareq-monowar-099aa72a3/)
 - Email: tmtareq20@gmail.com
 
 ---
