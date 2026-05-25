@@ -8,9 +8,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=React+Developer;Spring+Boot+Backend;Realtime+Application+Builder;Learning+System+Design;Building+Impactful+Products" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+</p> -->
 
 ---
 
